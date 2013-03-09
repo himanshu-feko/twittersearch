@@ -1,0 +1,26 @@
+.twitter{
+float:left;
+margin-right:20px;
+margin-bottom:0px;
+}
+ 
+body{
+font-family:Verdana, Geneva, sans-serif;
+background: url("clouds.jpg");
+font-size:14px;}
+ 
+.user{
+margin-bottom:10px;
+border-bottom:#CCCCCC thin dotted;
+padding:10px;}
+ 
+#search{
+padding:8px;
+background-color:#85298d;
+}
+ 
+#container {
+border-style:solid;
+border-width:1px;
+border-color:#3f3d3d
+}
